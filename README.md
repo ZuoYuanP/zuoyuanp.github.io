@@ -7,7 +7,7 @@
 
 
 
-3. 感谢 Jekyll、Github Pages 和 Bootstrap!
+3.感谢 Jekyll、Github Pages 和 Bootstrap!
 
 
 
